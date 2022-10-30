@@ -1,6 +1,6 @@
 <h1> Hey, I'm Denis 👋 </h1>
 <p>Glad to see you here! I'm a 21 engeneer student from Moscow. In a free time I spend time trying to code something, make UI/UX for some apps and websites and more.</p>
-<h4>There is my goals for now:</h4>
+<h3>There is my goals for now:</h3>
 <ul>
   <li>Learn JS perfectly <-- I'm here</li>
   <li>Learn React</li>
