@@ -8,8 +8,6 @@
   <li>JavaScript</li>
   <li>React JS</li>
   <li>Git</li>
-  <li>Learn JS perfectly <-- I'm here</li>
-  <li>Learn React</li>
 </ul>
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denla&layout=compact&langs_count=8&theme=github_light)
