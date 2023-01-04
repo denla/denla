@@ -1,5 +1,5 @@
 <h1> Hey, I'm Denis 👋 </h1>
-<p>Nice to see you here! I'm a 21 student from Moscow. In a free time I spend time trying to code something, make UI/UX for some apps and websites and more.</p>
+<p>Nice to see you here! I'm a 22 student from Moscow. In a free time I spend time trying to code something, make UI/UX for some apps and websites and more.</p>
 <h3>Tools and skills:</h3>
 <ul>
   <li>HTML</li>
