@@ -7,6 +7,7 @@
   <li>SCSS/SASS</li>
   <li>JavaScript</li>
   <li>React JS</li>
+  <li>React Router</li>
   <li>Git</li>
 </ul>
  
