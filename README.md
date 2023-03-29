@@ -6,6 +6,7 @@
   <li>CSS</li>
   <li>SCSS/SASS</li>
   <li>JavaScript</li>
+  <li>TypeScript</li>
   <li>React JS</li>
   <li>React Router</li>
   <li>Axios</li>
