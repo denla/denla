@@ -10,6 +10,9 @@
   <li>React JS</li>
   <li>React Router</li>
   <li>Axios</li>
+  <li>Firebase</li>
+  <li>GraphQL</li>
+  <li>Taiwind</li>
   <li>Git</li>
 </ul>
  
